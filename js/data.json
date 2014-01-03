@@ -1,0 +1,193 @@
+
+{
+	"instances": [
+		{
+			"id": "975381",
+			"upjobid": "job_201312052305_9984 ",
+			"datadir": "hdfs://apollo-phx-nn.vip.ebay.com:8020/apps/hdmi-ebayadvertising/dmp/prod/v2/user_profile/snapshot/2013/12/07/00",
+			"downjobid": "job_201312052305_10103 ",
+			"submittime": "2013-12-08 12:48:56",
+			"finishtime": "2013-12-08 12:48:37",
+			"name": "/apps/hdmi-ebayadvertising/dmp/prod/v2/user_profile/",
+			"version": "/2013/12/07/00"
+		},
+		{
+			"id": "994704",
+			"upjobid": "job_201312052305_86260 ",
+			"datadir": "hdfs://apollo-phx-nn.vip.ebay.com:8020/apps/hdmi-ebayadvertising/dmp/prod/v2/user_profile/snapshot/2013/12/24/00",
+			"downjobid": "job_201312052305_86385 ",
+			"submittime": "2013-12-25 07:48:13",
+			"finishtime": "2013-12-25 07:47:55",
+			"name": "/apps/hdmi-ebayadvertising/dmp/prod/v2/user_profile/",
+			"version": "/2013/12/24/00"
+		},
+		{
+			"id": "994137",
+			"upjobid": "job_201312052305_82991 ",
+			"datadir": "hdfs://apollo-phx-nn.vip.ebay.com:8020/apps/hdmi-ebayadvertising/dmp/prod/v2/user_profile/snapshot/2013/12/23/00",
+			"downjobid": "job_201312052305_83098 ",
+			"submittime": "2013-12-24 09:07:51",
+			"finishtime": "2013-12-24 09:07:35",
+			"name": "/apps/hdmi-ebayadvertising/dmp/prod/v2/user_profile/",
+			"version": "/2013/12/23/00"
+		},
+		{
+			"id": "992855",
+			"upjobid": "job_201312052305_74753 ",
+			"datadir": "hdfs://apollo-phx-nn.vip.ebay.com:8020/apps/hdmi-ebayadvertising/dmp/prod/v2/user_profile/snapshot/2013/12/21/00",
+			"downjobid": "job_201312052305_75107 ",
+			"submittime": "2013-12-22 08:08:05",
+			"finishtime": "2013-12-22 08:07:48",
+			"name": "/apps/hdmi-ebayadvertising/dmp/prod/v2/user_profile/",
+			"version": "/2013/12/21/00"
+		},
+		{
+			"id": "991771",
+			"upjobid": "job_201312052305_71415 ",
+			"datadir": "hdfs://apollo-phx-nn.vip.ebay.com:8020/apps/hdmi-ebayadvertising/dmp/prod/v2/user_profile/snapshot/2013/12/20/00",
+			"downjobid": "job_201312052305_71631 ",
+			"submittime": "2013-12-21 08:12:09",
+			"finishtime": "2013-12-21 08:11:50",
+			"name": "/apps/hdmi-ebayadvertising/dmp/prod/v2/user_profile/",
+			"version": "/2013/12/20/00"
+		},
+		{
+			"id": "990887",
+			"upjobid": "job_201312052305_68227 ",
+			"datadir": "hdfs://apollo-phx-nn.vip.ebay.com:8020/apps/hdmi-ebayadvertising/dmp/prod/v2/user_profile/snapshot/2013/12/19/00",
+			"downjobid": "job_201312052305_68425 ",
+			"submittime": "2013-12-20 10:37:51",
+			"finishtime": "2013-12-20 10:37:34",
+			"name": "/apps/hdmi-ebayadvertising/dmp/prod/v2/user_profile/",
+			"version": "/2013/12/19/00"
+		},
+		{
+			"id": "989756",
+			"upjobid": "job_201312052305_64046 ",
+			"datadir": "hdfs://apollo-phx-nn.vip.ebay.com:8020/apps/hdmi-incdata/inc_enduser_dev/inc_ebay_dev/inc_ebayadv_dev/dmp/qa/emtest/RTtest/user_profile/snapshot/2013/12/17/00",
+			"downjobid": "job_201312052305_64230 ",
+			"submittime": "2013-12-19 15:23:55",
+			"finishtime": "2013-12-19 14:34:20",
+			"name": "/apps/hdmi-incdata/inc_enduser_dev/inc_ebay_dev/inc_ebayadv_dev/dmp/qa/emtest/RTtest/user_profile/",
+			"version": "/2013/12/17/00"
+		},
+		{
+			"id": "989737",
+			"upjobid": "job_201312052305_63988 ",
+			"datadir": "hdfs://apollo-phx-nn.vip.ebay.com:8020/apps/hdmi-incdata/inc_enduser_dev/inc_ebay_dev/inc_ebayadv_dev/dmp/qa/emtest/RTtest/user_profile/snapshot/2013/12/18/00",
+			"downjobid": "job_201312052305_64076 ",
+			"submittime": "2013-12-19 14:36:36",
+			"finishtime": "2013-12-19 14:13:08",
+			"name": "/apps/hdmi-incdata/inc_enduser_dev/inc_ebay_dev/inc_ebayadv_dev/dmp/qa/emtest/RTtest/user_profile/",
+			"version": "/2013/12/18/00"
+		},
+		{
+			"id": "1173737",
+			"upjobid": "job_201312052305_63978 ",
+			"datadir": "hdfs://apollo-phx-nn.vip.ebay.com:8020/apps/hdmi-incdata/inc_enduser_dev/inc_ebay_dev/inc_ebayadv_dev/dmp/qa/emtest/RTtest/user_profile/snapshot/2013/09/15/00",
+			"downjobid": null,
+			"submittime": null,
+			"finishtime": "2013-12-19 13:58:45",
+			"name": "/apps/hdmi-incdata/inc_enduser_dev/inc_ebay_dev/inc_ebayadv_dev/dmp/qa/emtest/RTtest/user_profile/",
+			"version": "/2013/09/15/00"
+		},
+		{
+			"id": "989393",
+			"upjobid": "job_201312052305_62455 ",
+			"datadir": "hdfs://apollo-phx-nn.vip.ebay.com:8020/apps/hdmi-ebayadvertising/dmp/prod/v2/user_profile/snapshot/2013/12/18/00",
+			"downjobid": "job_201312052305_62828 ",
+			"submittime": "2013-12-19 07:39:44",
+			"finishtime": "2013-12-19 07:39:28",
+			"name": "/apps/hdmi-ebayadvertising/dmp/prod/v2/user_profile/",
+			"version": "/2013/12/18/00"
+		}
+	],
+	"currentData": {
+		"id": "975381",
+		"upjobid": "job_201312052305_9984 ",
+		"datadir": "hdfs://apollo-phx-nn.vip.ebay.com:8020/apps/hdmi-ebayadvertising/dmp/prod/v2/user_profile/snapshot/2013/12/07/00",
+		"downjobid": "job_201312052305_10103 ",
+		"submittime": "2013-12-08 12:48:56",
+		"finishtime": "2013-12-08 12:48:37",
+		"name": "/apps/hdmi-ebayadvertising/dmp/prod/v2/user_profile/",
+		"version": "/2013/12/07/00",
+		"downstream": {
+			"1147719": {
+				"jobid": "job_201312052305_10103 ",
+				"jobStartTime": "2013-12-08 12:48:56 ",
+				"jobFinishTime": "2013-12-08 13:52:47 "
+			}
+		}
+	},
+	"dataArr": {
+		"975381": {
+			"id": "975381",
+			"upjobid": "job_201312052305_9984 ",
+			"datadir": "hdfs://apollo-phx-nn.vip.ebay.com:8020/apps/hdmi-ebayadvertising/dmp/prod/v2/user_profile/snapshot/2013/12/07/00",
+			"downjobid": "job_201312052305_10103 ",
+			"submittime": "2013-12-08 12:48:56",
+			"finishtime": "2013-12-08 12:48:37",
+			"name": "/apps/hdmi-ebayadvertising/dmp/prod/v2/user_profile/",
+			"version": "/2013/12/07/00",
+			"downstream": {
+				"1147719": {
+					"jobid": "job_201312052305_10103 ",
+					"jobStartTime": "2013-12-08 12:48:56 ",
+					"jobFinishTime": "2013-12-08 13:52:47 "
+				}
+			}
+		},
+		"1118195": {
+			"id": "1118195",
+			"downjobid": "job_201312052305_9984 ",
+			"upjobid": null,
+			"datadir": "hdfs://apollo-phx-nn.vip.ebay.com:8020/apps/hdmi-ebayadvertising/dmp/prod/v2/soj_pixel/snapshot/2013/12/07/00",
+			"name": "/apps/hdmi-ebayadvertising/dmp/prod/v2/soj_pixel/",
+			"version": "/2013/12/07/00",
+			"downstream": {
+				"975381": {
+					"jobid": "job_201312052305_9984 ",
+					"jobStartTime": "2013-12-08 12:15:23 ",
+					"jobFinishTime": "2013-12-08 12:48:37 "
+				}
+			}
+		},
+		"1118196": {
+			"id": "1118196",
+			"downjobid": "job_201312052305_9984 ",
+			"upjobid": null,
+			"datadir": "hdfs://apollo-phx-nn.vip.ebay.com:8020/apps/hdmi-ebayadvertising/dmp/prod/v2/userinfo_pixel/snapshot/2013/12/08/00",
+			"name": "/apps/hdmi-ebayadvertising/dmp/prod/v2/userinfo_pixel/",
+			"version": "/2013/12/08/00",
+			"downstream": {
+				"975381": {
+					"jobid": "job_201312052305_9984 ",
+					"jobStartTime": "2013-12-08 12:15:23 ",
+					"jobFinishTime": "2013-12-08 12:48:37 "
+				}
+			}
+		},
+		"1118197": {
+			"id": "1118197",
+			"downjobid": "job_201312052305_9984 ",
+			"upjobid": null,
+			"datadir": "hdfs://apollo-phx-nn.vip.ebay.com:8020/apps/hdmi-ebayadvertising/dmp/prod/v2/performance/pixels/raw/2013/12/07",
+			"name": "/apps/hdmi-ebayadvertising/dmp/prod/v2/performance/pixels/raw/2013/12/07",
+			"downstream": {
+				"975381": {
+					"jobid": "job_201312052305_9984 ",
+					"jobStartTime": "2013-12-08 12:15:23 ",
+					"jobFinishTime": "2013-12-08 12:48:37 "
+				}
+			}
+		},
+		"1147719": {
+			"id": "1147719",
+			"downjobid": null,
+			"upjobid": "job_201312052305_10103 ",
+			"datadir": "hdfs://apollo-phx-nn.vip.ebay.com:8020/apps/hdmi-ebayadvertising/dmp/prod/v2/merged_profile/snapshot/2013/12/07/00.staging",
+			"name": "/apps/hdmi-ebayadvertising/dmp/prod/v2/merged_profile/",
+			"version": "/2013/12/07/00.staging"
+		}
+	}
+}
